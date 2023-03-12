@@ -1,0 +1,22 @@
+1- Se crea una cuenta en github correctamente.  Instalacion y configuracion del cliente GIT correcta utilizando nombre y correo electronico)
+
+2- Repositorio remoto creado con exito con el nombre "java" y la descripcion "DESARROLLADOR JAVA INICIAL" sin ningun archivo. Luego se clona localmente con exito.
+
+3- Se agrega un nuevo archivo txt con un texto cualquiera. Se hace el primer commit y se verifica que no esta en el repositorio remoto. La razon por la cual no aparece en el repositorio remoto es porque no se realizó el push.
+
+4- Se realiza el push y ahora si el archivo aparece en el repositorio remoto.
+
+5- se modifica el archivo desde la web, se guardan los cambios y al revisar localmente mediante github el archivo no aparece en el repositorio local. El cambio no esta aplicado localmente porque no hicimos un "FETCH" para darnos cuenta si hay cambios y lo mas importante es que no hicimos un "PULL" para que traiga los cambios del repositorio remoto al local.
+
+6- se realiza el "PULL" y se comprueban los cambios en el archivo, ahora si los cambios son visibles.
+
+7- se realiza un cambio en repositorio remoto desde la web y sin hacer pull se realiza un cambio en repositorio local.
+
+8- se intenta hacer el push pero encuentra conflictos, asi que se realiza un merge para verificar los cambios.
+
+9- se verifican los cambios dentro del archivo en la seccion separada por simbolos ">>> <<<" y se corrige. Al guardarlo indica conflictos solucionados y se realiza el merge.
+
+
+
+
+https://github.com/LE0OO0/java
