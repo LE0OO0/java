@@ -1,0 +1,1 @@
+com.mysql.cj.jdbc.Driver,jdbc:mysql://127.0.0.1:3306/pronosticos,root,root,1,3
